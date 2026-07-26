@@ -21,7 +21,7 @@ try:
         host="localhost",
         database="heviz_adatbazis",
         user="postgres",
-        password="vacKor16",
+        password="xxxxx",
         port="5432"
     )
     print("  OK")
